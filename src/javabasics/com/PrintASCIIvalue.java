@@ -11,9 +11,9 @@ public class PrintASCIIvalue
 		System.out.println("ASCII value of ch " +ch+ "is: " +asciiVal);
 		
 		//ascii value of all chars 
-		for(int i=0; i<255; i++)
-		{
-			System.out.println("ASCII value of all character are " +(char)i + " = s" +i );
-		}	     
+//		for(int i=0; i<255; i++)
+//		{
+//			System.out.println("ASCII value of all character are " +(char)i + " = " +i );
+//		}	     
 	}
 }
