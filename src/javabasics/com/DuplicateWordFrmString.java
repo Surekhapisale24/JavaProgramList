@@ -21,6 +21,8 @@ public class DuplicateWordFrmString
 		                if(words[i].equals(words[j]))
 		                {
 		                    isDuplicate[j] = true;
+		                    
+		                    //small
 		                }
 		            }
 		        }
