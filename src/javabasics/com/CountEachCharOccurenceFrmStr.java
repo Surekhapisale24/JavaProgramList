@@ -4,7 +4,6 @@ class CountEachCharOccurenceFrmStr
 {
 	public static void main(String[] args) 
 	{
-		
 		 int countArray[] = new int[256];
 	        Scanner sc = new Scanner(System.in);
 	        System.out.println("Enter the String");
