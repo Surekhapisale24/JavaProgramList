@@ -1,4 +1,4 @@
-package javabasics.com;
+                                   package javabasics.com;
 public class RemoveDuplicateEleOfSortedArray
 {
 	public static void main(String[] args) 

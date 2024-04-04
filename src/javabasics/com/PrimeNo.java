@@ -7,10 +7,12 @@ public class PrimeNo {
 		System.out.println("enter any no as input");
 		int num = sc.nextInt();
 		int temp = 0;
+		
 		for(int i=2; i<=num; i++)
 		{
 			if(num%2 == 0)
 			{
+				
 				temp = temp+1;
 			}
 		}
